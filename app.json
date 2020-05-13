@@ -1,0 +1,17 @@
+{
+  "name": "testProject",
+  "displayName": "testProject",
+  "expo": {
+    "name": "testProject",
+    "slug": "testProject",
+    "version": "1.0.0",
+    "platforms": [
+      "ios",
+      "android",
+      "web"
+    ],
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
